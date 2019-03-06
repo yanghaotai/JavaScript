@@ -161,3 +161,9 @@ var client = function () {					//创建一个对象
 alert(client.system.sysname + '|' +client.browser.name + client.browser.ver);
 
 
+
+
+
+
+
+
